@@ -1,4 +1,4 @@
-package Basics;
+package LeetCode;
 class ListNode{
     int value;
     ListNode next;
