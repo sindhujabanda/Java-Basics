@@ -1,4 +1,4 @@
-package Basics;
+package LeetCode;
 
 public class BandSStock {
     public static int maxProfit(int[] prices){

@@ -1,4 +1,4 @@
-package Basics;
+package LeetCode;
 
 public class MaxSumSubArray {
     public static int subArrayMaxSum(int[] nums){
